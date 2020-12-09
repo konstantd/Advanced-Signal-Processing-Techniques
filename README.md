@@ -15,7 +15,7 @@ In the 2nd project different **Time Frequency Analysis (TFA)** techniques are im
 3. Wavelet Transform (**WT)**  with different wavelet families
 4. Hilbert-Huang Transform (**HHT**) , with Empirical Mode Mecomposition (<u>EMD</u>) or Ensemble EMD (<u>EEMD</u>)
 
-The differences and advantages of each method were examined and applied to different points of interest (PVC or APC beats, isolated beats, sinus arrhythmia and other) for each cardiogram.  Furthermore,  R-R intervals were calculated with HHT and compared with RMSE. 
+The differences and advantages of each method were examined and applied to detect different points of interest (PVC or APC beats, isolated beats, sinus arrhythmia and other) for each cardiogram.  Furthermore,  R-R intervals were calculated with HHT and compared with RMSE. 
 
 
 
